@@ -16,19 +16,40 @@ You will receive an invitation email from **Anthropic**.
 
 ## ✅ 2. Install Node.js (macOS)
 
-We recommend using [Homebrew](https://brew.sh/) to install Node.js on your Mac.
+**Open the Terminal application** to run the following commands.
 
-Once Homebrew is installed, run:
+First, check if you already have Node.js installed:
+
+```bash
+node -v
+```
+
+If you see version numbers for both, you can skip to step 3. If not, continue with the installation below.
+
+### Install Homebrew (if not already installed)
+
+We recommend using [Homebrew](https://brew.sh/) to install Node.js on your Mac. First, install Homebrew by running this command in your terminal:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+**Important:** After installation, you'll need to add Homebrew to your PATH. Follow the instructions shown in your terminal, which typically look like this:
+
+![Homebrew PATH Setup](images/homebrew-1.png)
+
+### Install Node.js
+
+Once Homebrew is installed and added to your PATH, install Node.js:
 
 ```bash
 brew install node
 ```
 
-To verify the installation:
+Verify the installation:
 
 ```bash
 node -v
-npm -v
 ```
 
 You should see version numbers for both.
@@ -47,15 +68,18 @@ npm install -g @anthropic-ai/claude-code
 
 ## ⚡ 4. Run Claude
 
+Before running Claude, create a new folder for your hackathon project:
+
+```bash
+mkdir hackathon
+cd hackathon
+```
+
 Launch the Claude CLI from your terminal:
 
 ```bash
 claude
 ```
-
-On first launch, you'll be prompted to select how you're using Claude — choose:
-
-**→ API user**
 
 Claude will guide you through authenticating with your API key and setting up your environment.
 
@@ -67,11 +91,11 @@ Claude will guide you through authenticating with your API key and setting up yo
 
 **Step 2: Login Method Selection**
 ![Claude Code Login Selection](images/claude-2.png)
-*Select "Anthropic Console account" for API-based billing*
+*Select "Anthropic Console account" for API-based billing. Use the **arrow keys** to navigate and press **Enter** to proceed.*
 
 **Step 3: Authorization**
 ![Claude Code Authorization](images/claude-3.png)
-*Authorize Claude Code to connect to your Anthropic organization*
+*Click the **Authorize** button to allow Claude Code to connect to your Anthropic organization*
 
 ---
 
