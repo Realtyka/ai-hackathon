@@ -75,4 +75,16 @@ Claude will guide you through authenticating with your API key and setting up yo
 
 ---
 
+## 📹 5. Watch the Example Walkthrough
+
+![Claude Code Example Walkthrough](images/explanation-video-1.png)
+
+Check out this explanatory video where we walk through an example project using Claude Code:
+
+[**Watch Example Project Walkthrough →**](https://ro.am/recordings/play/42f6e513-ee9c-463a-a413-3b2524d3cebd?pwd=qI3rUc3aJ.8ubnm2fV.1jT1Qc4ioqK)
+
+This video demonstrates real-world usage patterns and best practices for getting the most out of Claude Code during your hackathon project.
+
+---
+
 You're now ready to start coding with Claude. Have fun and build something amazing!
