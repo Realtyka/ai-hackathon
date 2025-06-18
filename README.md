@@ -59,6 +59,20 @@ On first launch, you'll be prompted to select how you're using Claude — choose
 
 Claude will guide you through authenticating with your API key and setting up your environment.
 
+### Initial Setup Walkthrough
+
+**Step 1: Welcome Screen & Theme Selection**
+![Claude Code Welcome Screen](images/claude-1.png)
+*Choose your preferred terminal theme and preview code highlighting*
+
+**Step 2: Login Method Selection**
+![Claude Code Login Selection](images/claude-2.png)
+*Select "Anthropic Console account" for API-based billing*
+
+**Step 3: Authorization**
+![Claude Code Authorization](images/claude-3.png)
+*Authorize Claude Code to connect to your Anthropic organization*
+
 ---
 
 You're now ready to start coding with Claude. Have fun and build something amazing!
