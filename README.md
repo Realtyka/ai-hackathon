@@ -6,11 +6,9 @@ Welcome to the AI Hackathon! Follow these steps to get your machine ready for Cl
 
 ## 📧 1. Sign Up for Anthropic
 
-You will receive an invitation email from **Anthropic**.
-
-- Click the link in the email.
-- Register for an account using your preferred email address.
-- Once signed in, you'll have access to Claude and API tools.
+- Please create an account on claude.ai using your @therealbrokerage.com email address
+- Your team lead will meet with you to setup your account with a company credit card to have a Claude Max plan. Make sure that this is a PERSONAL plan.
+- Please confirm that you are on the Claude Max plan.
 
 ---
 
