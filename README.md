@@ -89,10 +89,15 @@ Claude will guide you through authenticating with your API key and setting up yo
 
 **Step 2: Login Method Selection**
 ![Claude Code Login Selection](images/claude-2.png)
-*Select "Anthropic Console account" for API-based billing. Use the **arrow keys** to navigate and press **Enter** to proceed.*
+*Select "Claude account with subscription". Use the **arrow keys** to navigate and press **Enter** to proceed.*
 
 **Step 3: Authorization**
 ![Claude Code Authorization](images/claude-3.png)
+
+*Click your **Organization** to select your account.*
+
+![Claude Code Authorization Complete](images/claude-4.png)
+
 *Click the **Authorize** button to allow Claude Code to connect to your Anthropic organization*
 
 ---
@@ -103,7 +108,7 @@ Claude will guide you through authenticating with your API key and setting up yo
 
 Check out this explanatory video where we walk through an example project using Claude Code:
 
-[**Watch Example Project Walkthrough →**](https://ro.am/recordings/play/42f6e513-ee9c-463a-a413-3b2524d3cebd?pwd=qI3rUc3aJ.8ubnm2fV.1jT1Qc4ioqK)
+[**Watch Example Project Walkthrough →**](videos/video-explainer.mp4)
 
 This video demonstrates real-world usage patterns and best practices for getting the most out of Claude Code during your hackathon project.
 
